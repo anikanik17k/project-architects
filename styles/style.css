@@ -266,9 +266,9 @@
    font-size: 20px;
    color: #727272;
 }
-/* some of our work */
+/* our examples */
 .work-examples{
-   width: 1920px;
+   width: 1960px;
    text-align: center;
    margin: 50px 30px 0;
 }
@@ -279,11 +279,12 @@
 .works{
    margin-top: 50px;
    display: grid;
-   grid-template-columns: repeat(3, 1fr);
+   grid-template-columns: repeat(2, 1fr);
    grid-row-gap:45px;   
 }
 .works img{
    border-radius: 10px;
+   width: 80%;
 }
 
 /* sponsor 
@@ -525,9 +526,9 @@ start feature list
 font-size: 10px;
 }
 
-/* some of our works
+/* our examples
 ------ */
-.workt-example{
+.work-examples{
    width: 100%;
    margin: 0;
 }
