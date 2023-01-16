@@ -359,6 +359,9 @@
    margin-top: 0px;
    padding: 0;
 }
+.navigation1{
+    display: block;
+}
 .navigation-title{
    text-align: center;
    margin: 10px auto;
