@@ -351,6 +351,10 @@
       height: auto;
       background: rgba(255, 144, 14, 0.1);
   }
+   .header1{
+    font-size: 30px;
+  }
+
   /* navigation part 
   -------------------------------*/
 .navigation{
@@ -365,7 +369,7 @@
 .navigation-title{
    text-align: center;
    margin: 10px auto;
-   font-size: 45px;
+   font-size: 25px;
 }
 .nav-list{
   /* solve korte hbe  */
@@ -412,6 +416,7 @@
 }
 .img-banner{
    width: 100%;
+   margin: 0 auto;
 }
 /* 
 start feature list
@@ -431,6 +436,7 @@ start feature list
 }
 .feature-list-title{
    width: 100%;
+   font-size: 30px;
 }
 .feature-list-details{
    width: 100%;
